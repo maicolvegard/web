@@ -10,7 +10,7 @@
 ======================================*/
 
 body {
-  background-color: #f5f5f5;
+  background-color: #0030a042;
   color: #4e4e4e;
 }
 
@@ -476,8 +476,8 @@ a:hover {
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
   background-color: #fff;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .navbar-b.navbar-reduce .nav-link {
